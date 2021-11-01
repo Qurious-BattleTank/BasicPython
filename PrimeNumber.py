@@ -13,3 +13,5 @@ for k in range(2, M+1):
         p.append(k)
         count+=1
 print('%d 이하 소수의 개수는 %d개' %(M, count))
+
+print("구름에서 추가했어요.")
